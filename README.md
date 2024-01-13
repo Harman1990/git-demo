@@ -1,5 +1,5 @@
 # git-demo
 POW of GIT
 <br>
-Author: Harman
+Author: Harman (UWaterloo)
 New Changes
